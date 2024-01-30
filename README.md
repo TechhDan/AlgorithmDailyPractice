@@ -24,7 +24,4 @@ Welcome to Algorithm Daily Practice – a daily algorithm practice repository de
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines to get started.
 
-## License
-This project is licensed under [appropriate license], see the LICENSE file for details.
-
 Happy Coding!
